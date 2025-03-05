@@ -1,6 +1,8 @@
 # feis
 Estimating fixed effects individual slope models Use feis (feisr) With (In) R Software
 
+https://www.youtube.com/watch?v=X9OUeIRxd9w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
